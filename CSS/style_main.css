@@ -273,6 +273,7 @@ gray #e5e5e5;
         border-radius: 15px;
         width: 280px;
         z-index: 999;
+        position: relative;
     }
 
 
@@ -295,10 +296,10 @@ gray #e5e5e5;
         row-gap: 20px;
         margin: 0 auto;
         width: 10px;
-        margin: 0 auto;
         transform: translateY(-25%);
         position: relative;
         z-index: 999;
+        margin-left: 10%;
     }
 
 
@@ -475,7 +476,6 @@ gray #e5e5e5;
     .u-video-poster {
         object-fit: cover;
         display: block;
-
         background-size: cover;
         background-position: 50% 50%;
         background-repeat: no-repeat;
