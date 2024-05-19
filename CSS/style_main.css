@@ -269,7 +269,7 @@ gray #e5e5e5;
         overflow: hidden;
         display: flex;
         align-items: flex-end;
-        border: 0px;
+        border: 1px solid rgb(rgb(255, 0, 0));
         border-radius: 15px;
         width: 280px;
         z-index: 999;
@@ -299,6 +299,7 @@ gray #e5e5e5;
         position: relative;
         z-index: 999;
         margin-left: 10%;
+        border: 1px solid rgb(255, 0, 0);
     }
 
 
