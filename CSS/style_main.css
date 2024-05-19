@@ -295,7 +295,6 @@ gray #e5e5e5;
         column-gap: 20px;
         row-gap: 20px;
         margin: 0 auto;
-        width: 10px;
         transform: translateY(-25%);
         position: relative;
         z-index: 999;
